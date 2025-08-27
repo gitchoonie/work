@@ -11,5 +11,11 @@ monkey
 github사이트에서 추가함. 
 bear
 
+로컬에서 추가함
+whale
+
 subchoon이 로컬에서 추가함
 pig
+
+subchoon이 로컬에서 추가함
+rabbit
