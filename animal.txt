@@ -10,3 +10,6 @@ monkey
 
 github사이트에서 추가함. 
 bear
+
+로컬에서 추가함
+whale
