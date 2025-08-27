@@ -14,5 +14,8 @@ bear
 로컬에서 추가함
 whale
 
-subchoon이 로컬에서 추가함
-pig
+
+
+
+
+penguin
