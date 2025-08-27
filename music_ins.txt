@@ -1,8 +1,0 @@
-guitar
-piano
-
-first violin
-
-second cello
-
-third drums
